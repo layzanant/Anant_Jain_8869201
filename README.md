@@ -1,1 +1,3 @@
-# Anant_Jain_8869201
+Your name: Anant Jain
+Project Title: Lab 3
+Student ID: 8869201
